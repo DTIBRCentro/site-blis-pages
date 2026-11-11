@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://blis.org.br/sitemap.xml
